@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mastra": {
+      "command": "npm",
+      "args": ["run", "mcp"],
+      "cwd": ".",
+      "env": {}
+    }
+  }
+}
